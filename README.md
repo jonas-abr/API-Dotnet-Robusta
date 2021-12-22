@@ -1,6 +1,5 @@
 # ManagerAPI
-
-<br><br>
+<br>
 <br>
 
 <h3 align="center">Para poder rodar o projeto você precisa configurar algumas variaveis de ambiente</h3>
